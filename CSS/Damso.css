@@ -1,0 +1,47 @@
+header{
+    text-align: center;
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: auto;
+    display: block;
+    background-color: peachpuff;
+    font-size: medium;
+    font-weight: bold;
+}
+nav{
+    text-align: right;
+    color: coral;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: peachpuff;
+}
+figcaption{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+body{
+    background-image: url("../Images/DAMSO1.JPG");
+}
+
+
+img{
+    height: 20%;
+    width: 20%;
+}
+p{
+    text-decoration: gold;
+    color: gold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+legend{
+    color: sienna;
+}
+table{
+    
+    border-collapse: collapse;
+    background-color: rgb(237, 237, 34);
+  }
+  td,th{
+    border: 3px solid brown;
+  }

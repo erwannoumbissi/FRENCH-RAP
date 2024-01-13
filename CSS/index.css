@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    font-style:inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration-line: underline;
+    background-image: url("../Images/DAMSO1.JPG");
+    text-shadow: 10px 10px 20px #22ed55;
+  }
+  p{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: large;
+    color: white;
+    text-shadow: 10px 10px 20px hsl(231, 84%, 15%);
+  }
+  table{
+    
+    border-collapse: collapse;
+    background-color: rgb(237, 237, 34);
+  }
+  td,th{
+    border: 3px solid brown;
+  }
+  body{
+    overflow: hidden;
+    background: linear-gradient(#5188DF,#f33b94);
+    background-image:url("../Images/concert.jpg"),;
+  }
+  textarea{
+    background-image: url("../Images/RAP\ FRANCE.JPG");
+  }
+  #lien{
+    display: flex;
+    justify-content: space-around;
+  }
+  a{
+    text-shadow: 10px 10px 20px #22ed55;
+  }
